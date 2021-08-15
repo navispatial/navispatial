@@ -1,6 +1,6 @@
 ## Hello all coders!
 
-- 👋 Hi, I’m @navispatial, coding solutions @navibyte
+- 👋 Hi, I’m @navispatial, coding solutions [@navibyte](https://github.com/navibyte)
 - 👀 I’m interested in [Dart](https://dart.dev/) 🎯 and [Flutter](https://flutter.dev/) 💙 development
 - 🌱 I’m currently learning to be Full-Stack Dart developer
 - 🔭 Exploring also geospatial solutions 🌐 and API design ✍️
@@ -9,7 +9,7 @@
 
 ## Code packages (BETA)
 
-Code by [navibyte](https://github.com/navibyte) hosted at GitHub.
+Code by [Navibyte](https://github.com/navibyte) hosted at GitHub.
 
 Dart code packages (BETA) published at [pub.dev](https://pub.dev/publishers/navibyte.com/packages). 
 
@@ -31,7 +31,9 @@ Package @ pub.dev | Version | Description
 :globe_with_meridians: [geocore](https://pub.dev/packages/geocore) | [![pub package](https://img.shields.io/pub/v/geocore.svg)](https://pub.dev/packages/geocore) | Geospatial data structures (features, geometry and metadata) and parsers ([GeoJSON](https://geojson.org/) and partial support for [Well-known text representation of geometry](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry)).
 :earth_americas: [geodata](https://pub.dev/packages/geodata) | [![pub package](https://img.shields.io/pub/v/geodata.svg)](https://pub.dev/packages/geodata) | A geospatial API client to read [GeoJSON](https://geojson.org/) and [OGC API Features](https://ogcapi.ogc.org/features/) data sources. 
 
+
 **All packages still at BETA stage, interfaces not fully final yet.** 
+
 
 ## Samples and demos
 
