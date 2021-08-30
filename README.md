@@ -9,7 +9,7 @@
 
 ## Code packages (BETA)
 
-Code by [Navibyte](https://github.com/navibyte) hosted at GitHub and packages at [pub.dev](https://pub.dev/publishers/navibyte.com/packages). 
+**Code by Navibyte** hosted at [GitHub](https://github.com/navibyte) and packages at [pub.dev](https://pub.dev/publishers/navibyte.com/packages). 
 
 ### [Geospatial](https://github.com/navibyte/geospatial) tools for Dart
 
