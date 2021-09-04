@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @navispatial, coding solutions [@navibyte](https://github.com/navibyte)
 - 👀 I’m interested in [Dart](https://dart.dev/) 🎯 and [Flutter](https://flutter.dev/) 💙 development
+- 🔭 Exploring also geospatial solutions 🌍 and API design ✍️
 - 🌱 I’m currently learning to be Full-Stack Dart developer
-- 🔭 Exploring also geospatial solutions 🗺 and API design ✍️
 - 📡 You can also follow tweets by [@navibyte](https://twitter.com/navibyte) (DMs open) 
 - 🏡 I'm located in Finland 🇫🇮
 
