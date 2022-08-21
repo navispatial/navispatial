@@ -13,11 +13,20 @@
 
 ### [Geospatial](https://github.com/navibyte/geospatial) tools for Dart
 
+**Geospatial** data structures, tools and utilities for 
+[Dart](https://dart.dev/) and [Flutter](https://flutter.dev/) - coordinates,
+geometries, feature objects, metadata, projections, tiling schemes, vector data
+models and formats, and gespatial Web APIs.
+
+[Dart](https://dart.dev/) code packages published at 
+[pub.dev](https://pub.dev/publishers/navibyte.com/packages):
+
 Code           | Package | Description 
 -------------- | --------| -----------
-:triangular_ruler: [geobase](https://github.com/navibyte/geospatial/tree/main/dart/geobase) | [![pub package](https://img.shields.io/pub/v/geobase.svg)](https://pub.dev/packages/geobase) | Geospatial coordinates, projections, tiling schemes, and data writers for [GeoJSON](https://geojson.org/) and [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry).
-:globe_with_meridians: [geocore](https://github.com/navibyte/geospatial/tree/main/dart/geocore) | [![pub package](https://img.shields.io/pub/v/geocore.svg)](https://pub.dev/packages/geocore) | Geospatial data (points, geometry, features, meta) structures, and parsers ([GeoJSON](https://geojson.org/), [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry)).
-:earth_americas: [geodata](https://github.com/navibyte/geospatial/tree/main/dart/geodata) | [![pub package](https://img.shields.io/pub/v/geodata.svg)](https://pub.dev/packages/geodata) | A geospatial API client to read [GeoJSON](https://geojson.org/) and other geospatial data sources.
+:globe_with_meridians: [geobase](https://github.com/navibyte/geospatial/tree/main/dart/geobase) | [![pub package](https://img.shields.io/pub/v/geobase.svg)](https://pub.dev/packages/geobase) | Geospatial data structures (coordinates, geometries, features, metadata), projections and tiling schemes. Vector data format support for [GeoJSON](https://geojson.org/), [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) and [WKB](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry#Well-known_binary).
+:earth_americas: [geodata](https://github.com/navibyte/geospatial/tree/main/dart/geodata) | [![pub package](https://img.shields.io/pub/v/geodata.svg)](https://pub.dev/packages/geodata) | Geospatial feature service Web APIs with support for [GeoJSON](https://geojson.org/) and [OGC API Features](https://ogcapi.ogc.org/features/) clients.
+
+🧩 See [open issues](https://github.com/navibyte/geospatial/issues) for planned features, requests for change, and observed bugs.
 
 ## Samples and demos
 
