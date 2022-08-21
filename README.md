@@ -7,11 +7,7 @@
 - 📡 You can also follow tweets by [@navibyte](https://twitter.com/navibyte) (DMs open) 
 - 🏡 I'm located in Finland 🇫🇮
 
-## Code packages
-
-**Code by Navibyte** hosted at [GitHub](https://github.com/navibyte) and packages at [pub.dev](https://pub.dev/publishers/navibyte.com/packages). 
-
-### Geospatial tools for Dart
+## Geospatial tools for Dart
 
 The [geospatial](https://github.com/navibyte/geospatial) code repository with
 geospatial data structures, tools and utilities for [Dart](https://dart.dev/)
