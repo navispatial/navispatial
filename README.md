@@ -9,7 +9,7 @@
 
 ## Geospatial tools for Dart
 
-The [geospatial](https://github.com/navibyte/geospatial) code repository with
+✨ The [geospatial](https://github.com/navibyte/geospatial) code repository with
 geospatial data structures, tools and utilities for [Dart](https://dart.dev/)
 and [Flutter](https://flutter.dev/) - coordinates, geometries, feature objects,
 metadata, projections, tiling schemes, vector data models and formats, and 
@@ -25,7 +25,21 @@ Code           | Package | Description
 
 🧩 See [open issues](https://github.com/navibyte/geospatial/issues) for planned features, requests for change, and observed bugs.
 
-## Samples and demos
+## Geospatial demos for Dart
+
+✨ See also the
+[Geospatial demos for Dart](https://github.com/navibyte/geospatial_demos) code
+repository for demo and sample apps demonstrating the usage of
+[geobase](https://pub.dev/packages/geobase) and
+[geodata](https://pub.dev/packages/geodata) along with other topics.
+
+Code          | Description 
+------------- | -----------
+[earthquake_map](https://github.com/navibyte/geospatial_demos/tree/main/earthquake_map) | Shows earthquakes fetched from the [USGS web service](https://earthquake.usgs.gov/earthquakes/feed/) on a basic map view. The demo uses both [geobase](https://pub.dev/packages/geobase) and [geodata](https://pub.dev/packages/geodata) packages for geospatial data accesss. Discusses also state management based on [Riverpod](https://riverpod.dev/). The map UI is based on the [Google Maps Flutter](https://pub.dev/packages/google_maps_flutter) plugin.
+
+📅 The first version of this repository was published in August 2022.
+
+## Older samples and demos
 
 Some code samples (*Last updated: Feb 2020*) also, code at GitHub:
 
