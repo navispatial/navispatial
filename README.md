@@ -10,7 +10,7 @@ See code [repositories](https://github.com/navibyte) by Navibyte.
 * 🔭 [Advancing](https://medium.com/@navibyte) Open Source
 * ᯅ Exploring spatial computing and [360° photos](https://kuula.co/profile/navibyte) 📸
 
-Follow 📡 tweets by [@navibyte](https://twitter.com/navibyte) (DMs open).
+Follow 📡 tweets by [@navibyte](https://x.com/navibyte) (DMs open).
 
 ## Geospatial tools for Dart
 
